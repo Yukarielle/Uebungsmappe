@@ -1,0 +1,14 @@
+C:\Users\KühnAngelina\source\repos\Übungsmappe\13_Übung_Methoden_Kaffemaschine\bin\Debug\net7.0\13_Übung_Methoden_Kaffemaschine.exe
+C:\Users\KühnAngelina\source\repos\Übungsmappe\13_Übung_Methoden_Kaffemaschine\bin\Debug\net7.0\13_Übung_Methoden_Kaffemaschine.deps.json
+C:\Users\KühnAngelina\source\repos\Übungsmappe\13_Übung_Methoden_Kaffemaschine\bin\Debug\net7.0\13_Übung_Methoden_Kaffemaschine.runtimeconfig.json
+C:\Users\KühnAngelina\source\repos\Übungsmappe\13_Übung_Methoden_Kaffemaschine\bin\Debug\net7.0\13_Übung_Methoden_Kaffemaschine.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\13_Übung_Methoden_Kaffemaschine\bin\Debug\net7.0\13_Übung_Methoden_Kaffemaschine.pdb
+C:\Users\KühnAngelina\source\repos\Übungsmappe\13_Übung_Methoden_Kaffemaschine\obj\Debug\net7.0\13_Übung_Methoden_Kaffemaschine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KühnAngelina\source\repos\Übungsmappe\13_Übung_Methoden_Kaffemaschine\obj\Debug\net7.0\13_Übung_Methoden_Kaffemaschine.AssemblyInfoInputs.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\13_Übung_Methoden_Kaffemaschine\obj\Debug\net7.0\13_Übung_Methoden_Kaffemaschine.AssemblyInfo.cs
+C:\Users\KühnAngelina\source\repos\Übungsmappe\13_Übung_Methoden_Kaffemaschine\obj\Debug\net7.0\13_Übung_Methoden_Kaffemaschine.csproj.CoreCompileInputs.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\13_Übung_Methoden_Kaffemaschine\obj\Debug\net7.0\13_Übung_Methoden_Kaffemaschine.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\13_Übung_Methoden_Kaffemaschine\obj\Debug\net7.0\refint\13_Übung_Methoden_Kaffemaschine.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\13_Übung_Methoden_Kaffemaschine\obj\Debug\net7.0\13_Übung_Methoden_Kaffemaschine.pdb
+C:\Users\KühnAngelina\source\repos\Übungsmappe\13_Übung_Methoden_Kaffemaschine\obj\Debug\net7.0\13_Übung_Methoden_Kaffemaschine.genruntimeconfig.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\13_Übung_Methoden_Kaffemaschine\obj\Debug\net7.0\ref\13_Übung_Methoden_Kaffemaschine.dll

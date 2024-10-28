@@ -1,0 +1,14 @@
+C:\Users\KühnAngelina\source\repos\Übungsmappe\10_Übung_Lotto\bin\Debug\net7.0\10_Übung_Lotto.exe
+C:\Users\KühnAngelina\source\repos\Übungsmappe\10_Übung_Lotto\bin\Debug\net7.0\10_Übung_Lotto.deps.json
+C:\Users\KühnAngelina\source\repos\Übungsmappe\10_Übung_Lotto\bin\Debug\net7.0\10_Übung_Lotto.runtimeconfig.json
+C:\Users\KühnAngelina\source\repos\Übungsmappe\10_Übung_Lotto\bin\Debug\net7.0\10_Übung_Lotto.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\10_Übung_Lotto\bin\Debug\net7.0\10_Übung_Lotto.pdb
+C:\Users\KühnAngelina\source\repos\Übungsmappe\10_Übung_Lotto\obj\Debug\net7.0\10_Übung_Lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KühnAngelina\source\repos\Übungsmappe\10_Übung_Lotto\obj\Debug\net7.0\10_Übung_Lotto.AssemblyInfoInputs.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\10_Übung_Lotto\obj\Debug\net7.0\10_Übung_Lotto.AssemblyInfo.cs
+C:\Users\KühnAngelina\source\repos\Übungsmappe\10_Übung_Lotto\obj\Debug\net7.0\10_Übung_Lotto.csproj.CoreCompileInputs.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\10_Übung_Lotto\obj\Debug\net7.0\10_Übung_Lotto.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\10_Übung_Lotto\obj\Debug\net7.0\refint\10_Übung_Lotto.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\10_Übung_Lotto\obj\Debug\net7.0\10_Übung_Lotto.pdb
+C:\Users\KühnAngelina\source\repos\Übungsmappe\10_Übung_Lotto\obj\Debug\net7.0\10_Übung_Lotto.genruntimeconfig.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\10_Übung_Lotto\obj\Debug\net7.0\ref\10_Übung_Lotto.dll
