@@ -1,0 +1,14 @@
+C:\Users\KühnAngelina\source\repos\Übungsmappe\06_Übung_Schere_Stein_Papier\obj\Debug\net7.0\06_Übung_Schere_Stein_Papier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KühnAngelina\source\repos\Übungsmappe\06_Übung_Schere_Stein_Papier\obj\Debug\net7.0\06_Übung_Schere_Stein_Papier.AssemblyInfoInputs.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\06_Übung_Schere_Stein_Papier\obj\Debug\net7.0\06_Übung_Schere_Stein_Papier.AssemblyInfo.cs
+C:\Users\KühnAngelina\source\repos\Übungsmappe\06_Übung_Schere_Stein_Papier\obj\Debug\net7.0\06_Übung_Schere_Stein_Papier.csproj.CoreCompileInputs.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\06_Übung_Schere_Stein_Papier\bin\Debug\net7.0\06_Übung_Schere_Stein_Papier.exe
+C:\Users\KühnAngelina\source\repos\Übungsmappe\06_Übung_Schere_Stein_Papier\bin\Debug\net7.0\06_Übung_Schere_Stein_Papier.deps.json
+C:\Users\KühnAngelina\source\repos\Übungsmappe\06_Übung_Schere_Stein_Papier\bin\Debug\net7.0\06_Übung_Schere_Stein_Papier.runtimeconfig.json
+C:\Users\KühnAngelina\source\repos\Übungsmappe\06_Übung_Schere_Stein_Papier\bin\Debug\net7.0\06_Übung_Schere_Stein_Papier.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\06_Übung_Schere_Stein_Papier\bin\Debug\net7.0\06_Übung_Schere_Stein_Papier.pdb
+C:\Users\KühnAngelina\source\repos\Übungsmappe\06_Übung_Schere_Stein_Papier\obj\Debug\net7.0\06_Übung_Schere_Stein_Papier.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\06_Übung_Schere_Stein_Papier\obj\Debug\net7.0\refint\06_Übung_Schere_Stein_Papier.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\06_Übung_Schere_Stein_Papier\obj\Debug\net7.0\06_Übung_Schere_Stein_Papier.pdb
+C:\Users\KühnAngelina\source\repos\Übungsmappe\06_Übung_Schere_Stein_Papier\obj\Debug\net7.0\06_Übung_Schere_Stein_Papier.genruntimeconfig.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\06_Übung_Schere_Stein_Papier\obj\Debug\net7.0\ref\06_Übung_Schere_Stein_Papier.dll

@@ -1,0 +1,14 @@
+C:\Users\KühnAngelina\source\repos\Übungsmappe\11_Übung_Bubblesort\bin\Debug\net7.0\11_Übung_Bubblesort.exe
+C:\Users\KühnAngelina\source\repos\Übungsmappe\11_Übung_Bubblesort\bin\Debug\net7.0\11_Übung_Bubblesort.deps.json
+C:\Users\KühnAngelina\source\repos\Übungsmappe\11_Übung_Bubblesort\bin\Debug\net7.0\11_Übung_Bubblesort.runtimeconfig.json
+C:\Users\KühnAngelina\source\repos\Übungsmappe\11_Übung_Bubblesort\bin\Debug\net7.0\11_Übung_Bubblesort.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\11_Übung_Bubblesort\bin\Debug\net7.0\11_Übung_Bubblesort.pdb
+C:\Users\KühnAngelina\source\repos\Übungsmappe\11_Übung_Bubblesort\obj\Debug\net7.0\11_Übung_Bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KühnAngelina\source\repos\Übungsmappe\11_Übung_Bubblesort\obj\Debug\net7.0\11_Übung_Bubblesort.AssemblyInfoInputs.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\11_Übung_Bubblesort\obj\Debug\net7.0\11_Übung_Bubblesort.AssemblyInfo.cs
+C:\Users\KühnAngelina\source\repos\Übungsmappe\11_Übung_Bubblesort\obj\Debug\net7.0\11_Übung_Bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\11_Übung_Bubblesort\obj\Debug\net7.0\11_Übung_Bubblesort.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\11_Übung_Bubblesort\obj\Debug\net7.0\refint\11_Übung_Bubblesort.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\11_Übung_Bubblesort\obj\Debug\net7.0\11_Übung_Bubblesort.pdb
+C:\Users\KühnAngelina\source\repos\Übungsmappe\11_Übung_Bubblesort\obj\Debug\net7.0\11_Übung_Bubblesort.genruntimeconfig.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\11_Übung_Bubblesort\obj\Debug\net7.0\ref\11_Übung_Bubblesort.dll

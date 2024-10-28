@@ -1,0 +1,14 @@
+C:\Users\KühnAngelina\source\repos\Übungsmappe\01_Wetter_Prüfung\bin\Debug\net7.0\01_Wetter_Prüfung.exe
+C:\Users\KühnAngelina\source\repos\Übungsmappe\01_Wetter_Prüfung\bin\Debug\net7.0\01_Wetter_Prüfung.deps.json
+C:\Users\KühnAngelina\source\repos\Übungsmappe\01_Wetter_Prüfung\bin\Debug\net7.0\01_Wetter_Prüfung.runtimeconfig.json
+C:\Users\KühnAngelina\source\repos\Übungsmappe\01_Wetter_Prüfung\bin\Debug\net7.0\01_Wetter_Prüfung.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\01_Wetter_Prüfung\bin\Debug\net7.0\01_Wetter_Prüfung.pdb
+C:\Users\KühnAngelina\source\repos\Übungsmappe\01_Wetter_Prüfung\obj\Debug\net7.0\01_Wetter_Prüfung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KühnAngelina\source\repos\Übungsmappe\01_Wetter_Prüfung\obj\Debug\net7.0\01_Wetter_Prüfung.AssemblyInfoInputs.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\01_Wetter_Prüfung\obj\Debug\net7.0\01_Wetter_Prüfung.AssemblyInfo.cs
+C:\Users\KühnAngelina\source\repos\Übungsmappe\01_Wetter_Prüfung\obj\Debug\net7.0\01_Wetter_Prüfung.csproj.CoreCompileInputs.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\01_Wetter_Prüfung\obj\Debug\net7.0\01_Wetter_Prüfung.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\01_Wetter_Prüfung\obj\Debug\net7.0\refint\01_Wetter_Prüfung.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\01_Wetter_Prüfung\obj\Debug\net7.0\01_Wetter_Prüfung.pdb
+C:\Users\KühnAngelina\source\repos\Übungsmappe\01_Wetter_Prüfung\obj\Debug\net7.0\01_Wetter_Prüfung.genruntimeconfig.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\01_Wetter_Prüfung\obj\Debug\net7.0\ref\01_Wetter_Prüfung.dll

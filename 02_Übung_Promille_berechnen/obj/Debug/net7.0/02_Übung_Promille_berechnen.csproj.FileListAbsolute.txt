@@ -1,0 +1,14 @@
+C:\Users\KühnAngelina\source\repos\Übungsmappe\02_Übung_Promille_berechnen\obj\Debug\net7.0\02_Übung_Promille_berechnen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KühnAngelina\source\repos\Übungsmappe\02_Übung_Promille_berechnen\obj\Debug\net7.0\02_Übung_Promille_berechnen.AssemblyInfoInputs.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\02_Übung_Promille_berechnen\obj\Debug\net7.0\02_Übung_Promille_berechnen.AssemblyInfo.cs
+C:\Users\KühnAngelina\source\repos\Übungsmappe\02_Übung_Promille_berechnen\obj\Debug\net7.0\02_Übung_Promille_berechnen.csproj.CoreCompileInputs.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\02_Übung_Promille_berechnen\bin\Debug\net7.0\02_Übung_Promille_berechnen.exe
+C:\Users\KühnAngelina\source\repos\Übungsmappe\02_Übung_Promille_berechnen\bin\Debug\net7.0\02_Übung_Promille_berechnen.deps.json
+C:\Users\KühnAngelina\source\repos\Übungsmappe\02_Übung_Promille_berechnen\bin\Debug\net7.0\02_Übung_Promille_berechnen.runtimeconfig.json
+C:\Users\KühnAngelina\source\repos\Übungsmappe\02_Übung_Promille_berechnen\bin\Debug\net7.0\02_Übung_Promille_berechnen.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\02_Übung_Promille_berechnen\bin\Debug\net7.0\02_Übung_Promille_berechnen.pdb
+C:\Users\KühnAngelina\source\repos\Übungsmappe\02_Übung_Promille_berechnen\obj\Debug\net7.0\02_Übung_Promille_berechnen.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\02_Übung_Promille_berechnen\obj\Debug\net7.0\refint\02_Übung_Promille_berechnen.dll
+C:\Users\KühnAngelina\source\repos\Übungsmappe\02_Übung_Promille_berechnen\obj\Debug\net7.0\02_Übung_Promille_berechnen.pdb
+C:\Users\KühnAngelina\source\repos\Übungsmappe\02_Übung_Promille_berechnen\obj\Debug\net7.0\02_Übung_Promille_berechnen.genruntimeconfig.cache
+C:\Users\KühnAngelina\source\repos\Übungsmappe\02_Übung_Promille_berechnen\obj\Debug\net7.0\ref\02_Übung_Promille_berechnen.dll
